@@ -1,0 +1,15 @@
+/home/hp/Desktop/Swap_face/dlib-19.17/build/CMakeFiles/edit_cache.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/CMakeFiles/package_source.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/CMakeFiles/rebuild_cache.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/CMakeFiles/install/local.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/CMakeFiles/package.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/CMakeFiles/install.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/CMakeFiles/list_install_components.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/dlib/CMakeFiles/edit_cache.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/dlib/CMakeFiles/package_source.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/dlib/CMakeFiles/rebuild_cache.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/dlib/CMakeFiles/package.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/dlib/CMakeFiles/install/local.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/dlib/CMakeFiles/dlib.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/dlib/CMakeFiles/install.dir
+/home/hp/Desktop/Swap_face/dlib-19.17/build/dlib/CMakeFiles/list_install_components.dir
