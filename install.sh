@@ -12,7 +12,7 @@ sudo make install
 sudo ldconfig
 cd ..
 pkg-config --libs --cflags dlib-1
-cd dlib-19.6
+cd dlib-19.17/
 python setup.py install
 rm -rf dist
 rm -rf tools/python/build
@@ -21,7 +21,6 @@ cd ..
 sudo chmod +x destroy.sh
 pip install -r requirement.txt
 pip install stasm
-python UploadTest.py
 
 
 
