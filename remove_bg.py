@@ -8,7 +8,7 @@ def remove_bg2(x):
         'https://api.remove.bg/v1.0/removebg',
         files={'image_file': open(x, 'rb')},
         data={'size': 'auto'},
-        headers={'X-Api-Key': '3uVE6ierroU6VSH5hGNMUazf'},
+        headers={'X-Api-Key': 'L8HoXCe2ACUz7FHc9WyN1gqD'},
     )
     if response.status_code == requests.codes.ok:
         with open(target1+'no-bg_2.png', 'wb') as out:
