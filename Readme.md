@@ -17,7 +17,7 @@ Then log in.Go to https://www.remove.bg/api click the "Get API Key" button.Copy 
 ![](https://github.com/Aakroat/Face_Swap/blob/master/images/base/akshay_base.jpg)
 
   Patch Image
-![](https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg=150x150)  
+![](https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg =150x150)  
   
 
 
