@@ -13,8 +13,10 @@ Then log in.Go to https://www.remove.bg/api click the "Get API Key" button.Copy 
 5.Double click on destroy.sh to delete all the files inside the static folder.(optional)
 
 6.SAMPLE OUTPUT
-
-<p align="center">Base Image
+<p align="center">
+<em>Base Image</em>
+</p>
+<p align="center">
 <img src="https://github.com/Aakroat/Face_Swap/blob/master/images/base/akshay_base.jpg"> 
 </p>
 <p align="center">
@@ -25,6 +27,8 @@ Then log in.Go to https://www.remove.bg/api click the "Get API Key" button.Copy 
 </p>  
 <p align="center">
 <em>Swaped Image</em>
+</p>
+<p align="center">
 <img src="https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg" width=300>
 </p>
 
