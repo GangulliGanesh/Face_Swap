@@ -23,5 +23,9 @@ Then log in.Go to https://www.remove.bg/api click the "Get API Key" button.Copy 
 <p align="center">
 <img src="https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg" width=300>  
 </p>  
+<p align="center">
+<em>Swaped Image</em>
+<img src="https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg" width=300>
+</p>
 
 
