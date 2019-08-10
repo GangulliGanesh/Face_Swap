@@ -17,8 +17,11 @@ Then log in.Go to https://www.remove.bg/api click the "Get API Key" button.Copy 
 <p align="center">Base Image
 <img src="https://github.com/Aakroat/Face_Swap/blob/master/images/base/akshay_base.jpg"> 
 </p>
+<p>
+    <em>Patch Image</em>
+</p>
 <p align="center">
-<img title="Patch Image" src="https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg" width=300>  
+<img src="https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg" width=300>  
 </p>  
 
 
