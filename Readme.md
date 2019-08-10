@@ -29,7 +29,7 @@ Then log in.Go to https://www.remove.bg/api click the "Get API Key" button.Copy 
 <em>Swaped Image</em>
 </p>
 <p align="center">
-<img src="https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg" width=300>
+<img src="https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg">
 </p>
 
 
