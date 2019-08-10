@@ -14,10 +14,10 @@ Then log in.Go to https://www.remove.bg/api click the "Get API Key" button.Copy 
 
 6.Sample swap for 
   Base Image
-<img align="right" src="https://github.com/Aakroat/Face_Swap/blob/master/images/base/akshay_base.jpg" width=100>
+<img src="https://github.com/Aakroat/Face_Swap/blob/master/images/base/akshay_base.jpg">
 
   Patch Image
-<img align="right" src="https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg" width=100>  
+<img src="https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg" width=100>  
   
 
 
