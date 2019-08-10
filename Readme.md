@@ -4,7 +4,7 @@ Go to Face_Swap and run sudo chmod +x install.sh
 
 2.Run ./install.sh , Run python UploadTest.py
 
-3.Base images and mugshots can be found in reference image folder and mugshots respectively.
+3.Base images and mugshots can be found in base folder and patch respectively.
 
 4.Line 11 of remove_bg.py has the API key.
 To get a new Key sign in here https://www.remove.bg/users/sign_up 
