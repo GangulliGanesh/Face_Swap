@@ -23,13 +23,13 @@ Then log in.Go to https://www.remove.bg/api click the "Get API Key" button.Copy 
 <em>Patch Image</em>
 </p>
 <p align="center">
-<img src="https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg" width=300>  
+<img src="https://github.com/Aakroat/Face_Swap/blob/master/images/patch/barak-obama.jpg" width=300>  
 </p>  
 <p align="center">
 <em>Swaped Image</em>
 </p>
 <p align="center">
-<img src="https://github.com/Aakroat/Face_Swap/blob/master/images/patch/aa.jpg">
+<img src="https://github.com/Aakroat/Face_Swap/blob/master/bo.png">
 </p>
 
 
