@@ -2,7 +2,7 @@
 Go to Face_Swap and run sudo chmod +x install.sh
 
 
-2.Run ./install.sh , Run python UploadTest.py
+2.Run ./install.sh , Run python UploadTest.py --a link will pop up on the terminal which will lead you to a web API.
 
 3.Base images and mugshots can be found in base folder and patch respectively.
 
